@@ -2,6 +2,7 @@
 Reading material -
 https://www.programiz.com/python-programming/namespace
 https://medium.com/analytics-vidhya/dict-attribute-and-vars-function-in-python-42d82dbaba73
+
 1.Write a Python program to import built-in array module and display the namespace of the said module.
 2.Write a Python program to create a Student class with two functions - 
   read(str) -> that stores the readed text
